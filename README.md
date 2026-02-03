@@ -1,19 +1,24 @@
-<h1 align="center">Hi 👋, I'm Doaa AlShafei</h1>
+<h1 align="center">Hi 👋, I'm Doaa Ashraf Hassan</h1>
 
 <h3 align="center">
-Full Stack Developer | .NET & Angular 💻
+I'm a Full Stack Developer | .NET & Angular 💻
 </h3>
 
-<p align="center">
-I’m a passionate Full Stack Developer who loves building scalable web applications and learning new technologies 🚀
+<p>
+I’m a passionate Full Stack Developer who loves building scalable and secure web applications,
+and always seeks to improve her skills and learn new technologies 🚀
+</p>
+
+<p align="left">
+<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width="250px"/>
 </p>
 
 ---
 
-## 🎓 Education  
+### 🎓 Education  
 
-🏫 Faculty of Computers & Information  
-🎯 Department: Information Systems  
+🏫 Faculty of Computers & Information, Minia University
+🎯 Department: Computer Science
 
 ---
 
@@ -21,55 +26,102 @@ I’m a passionate Full Stack Developer who loves building scalable web applicat
 
 <p align="left">
 
-<a href="https://linkedin.com/in/www.linkedin.com/in/doaa-ashraf-hassan-5620992a5" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/>
-</a>
+<a href="https://www.linkedin.com/in/www.linkedin.com/in/doaa-ashraf-hassan-5620992a5" title="LinkedIn">
+<img src="https://img.shields.io/badge/LinkedIn-%23000?style=social&logo=LinkedIn&logoColor=%230A66C2"/>
+</a> 
 
-<a href="mailto:doaaashraf210@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=gmail&logoColor=white"/>
+<a href="mailto:doaaashrafhassan210@gmail.com" title="Gmail">
+<img src="https://img.shields.io/badge/Gmail-%23000?style=social&logo=Gmail&logoColor=%23EA4335"/>
 </a>
 
 </p>
 
 ---
 
-## 🧠 Technical Skills  
+💬 If you have any questions, feel free to contact me anytime!
+
+---
+
+## 💼 Technical Skills  
 
 ### 🖥️ Front-End  
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript">
+  <img src="https://img.shields.io/badge/JavaScript-%23000?style=social&logo=javascript&logoColor=F7DF1E"/>
+</a>
+
+<a href="https://www.typescriptlang.org/" title="TypeScript">
+  <img src="https://img.shields.io/badge/TypeScript-%23000?style=social&logo=typescript&logoColor=3178C6"/>
+</a>
+
+<a href="https://tailwindcss.com/" title="Tailwind CSS">
+  <img src="https://img.shields.io/badge/TailwindCSS-%23000?style=social&logo=tailwindcss&logoColor=06B6D4"/>
+</a>
+
+<a href="https://getbootstrap.com/" title="Bootstrap">
+  <img src="https://img.shields.io/badge/Bootstrap-%23000?style=social&logo=bootstrap&logoColor=7952B3"/>
+</a>
+
+<a href="https://angular.io/" title="Angular">
+  <img src="https://img.shields.io/badge/Angular-%23000?style=social&logo=angular&logoColor=DD0031"/>
+</a>
+
+<a href="https://www.npmjs.com/" title="NPM">
+  <img src="https://img.shields.io/badge/NPM-%23000?style=social&logo=npm&logoColor=CB3837"/>
+</a>
+---
 
 ### ⚙️ Back-End  
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
-![C#](https://img.shields.io/badge/CSharp-239120?style=flat&logo=csharp&logoColor=white)
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
-![Entity Framework](https://img.shields.io/badge/Entity_Framework-512BD4?style=flat)
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/" title="C#">
+  <img src="https://img.shields.io/badge/CSharp-%23000?style=social&logo=csharp&logoColor=239120"/>
+</a>
 
-### 🛠 Tools  
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
-![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)
+<a href="https://learn.microsoft.com/en-us/dotnet/" title=".NET">
+  <img src="https://img.shields.io/badge/.NET-%23000?style=social&logo=dotnet&logoColor=512BD4"/>
+</a>
+
+<a href="https://learn.microsoft.com/en-us/dotnet/csharp/programming-guide/concepts/linq/" title="LINQ">
+  <img src="https://img.shields.io/badge/LINQ-%23000?style=social&logo=dotnet&logoColor=512BD4"/>
+</a>
+
+<a href="https://learn.microsoft.com/en-us/ef/core/" title="Entity Framework">
+  <img src="https://img.shields.io/badge/Entity%20Framework-%23000?style=social&logo=dotnet&logoColor=512BD4"/>
+</a>
+
+<a href="https://learn.microsoft.com/en-us/sql/sql-server/" title="SQL Server">
+  <img src="https://img.shields.io/badge/SQL%20Server-%23000?style=social&logo=microsoftsqlserver&logoColor=CC2927"/>
+</a>
+
+<a href="https://learn.microsoft.com/en-us/aspnet/core/mvc/" title="ASP.NET MVC Core">
+  <img src="https://img.shields.io/badge/ASP.NET%20MVC%20Core-%23000?style=social&logo=dotnet&logoColor=512BD4"/>
+</a>
+
+<a href="https://learn.microsoft.com/en-us/aspnet/core/web-api/" title="ASP.NET Web API">
+  <img src="https://img.shields.io/badge/ASP.NET%20Web%20API-%23000?style=social&logo=dotnet&logoColor=512BD4"/>
+</a>
 
 ---
 
-## 📊 GitHub Stats  
+### 🛠 Tools  
 
-<p align="center">
+<a href="https://git-scm.com/" title="Git">
+<img src="https://img.shields.io/badge/Git-%23000?style=social&logo=git&logoColor=F05032"/>
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api?username=DoaaAshraf210&show_icons=true&theme=default" />
+<a href="https://github.com/" title="GitHub">
+<img src="https://img.shields.io/badge/GitHub-%23000?style=social&logo=github&logoColor=181717"/>
+</a>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=default" />
+<a href="https://www.postman.com/" title="Postman">
+<img src="https://img.shields.io/badge/Postman-%23000?style=social&logo=postman&logoColor=FF6C37"/>
+</a>
 
-</p>
+<a href="https://visualstudio.microsoft.com/" title="Visual Studio">
+<img src="https://img.shields.io/badge/Visual%20Studio-%23000?style=social&logo=visualstudio&logoColor=5C2D91"/>
+</a>
 
 ---
 
 ## 👀 Profile Visitors  
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=blue&style=flat" />
-</p>
+![Visitor Count](https://profile-counter.glitch.me/YOUR_USERNAME/count.svg)

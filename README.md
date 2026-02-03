@@ -23,8 +23,9 @@
       <img src="https://static.wikia.nocookie.net/google/images/7/72/Logo-gmail.png/revision/latest/thumbnail/width/360/height/360?cb=20201214214241" height="50"/></a> &nbsp;
     <a href="https://www.linkedin.com/in/doaa-ashraf-hassan-5620992a5/">
       <img src="https://www.iconpacks.net/icons/1/free-linkedin-icon-130-thumb.png" height="50"/></a> &nbsp;
-         <a href="https://wa.me/201001095509">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/6/6b/WhatsApp.svg" height="50"/></a> &nbsp;
+        <a href="https://wa.me/+201001095509" >
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  </a> &nbsp;
     <a href="https://your-portfolio-link.com">
       <img src="https://doaaashrafhassan.vercel.app" height="50"/></a> &nbsp;
   </p>

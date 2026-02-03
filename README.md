@@ -32,7 +32,7 @@
 ### 🛠️ Top Technical Skills & Tools
 
   <p align="left">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,tailwind,js,typescript,angular,dotnet,cs,sqlserver,postman,swagger,git,github&perline=4" style="height:113px;"/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,tailwind,js,typescript,angular,dotnet,cs,sqlserver,postman,swagger,git,github&perline=8" style="height:113px;"/>
      
   </p>
   </p>

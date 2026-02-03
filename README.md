@@ -6,8 +6,8 @@
  <p align="left">
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/>
 <br>
-<!-- - 🌱 I’m currently studying `BackEnd Node.js` -->
--🏫 :University: I am a graduate of the Department of Computer Science, from the Faculty of Computers and Information,Minya Unviersty
+
+  🏫University:I am a graduate of the Department of Computer Science, Faculty of Computers and Information, Minya University.
 
 <br />
  <p align="left">
@@ -52,8 +52,5 @@
   <a href="https://github.com/" title="GitHub"><img src="https://img.shields.io/badge/GitHub-%23000?style=social&logo=GitHub&logoColor=%23181717" alt="GitHub"></a>
   
   <br />
-  <br />
-  **👀 Profile Visitor's:**
 
-![Visitor Count](https://profile-counter.glitch.me/{YourGitHubUsername}/count.svg)
 <br>

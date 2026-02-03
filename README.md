@@ -6,22 +6,23 @@
  <p align="left">
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/>
 <br>
-<!-- - 🌱 I'm currently learning `New Technologies` -->
--🏫 Full Stack Developer specializing in Angular and .NET technologies
+<!-- - 🌱 I’m currently studying `BackEnd Node.js` -->
+-🏫 :University: I am a graduate of the Department of Computer Science, from the Faculty of Computers and Information,Minya Unviersty
 
 <br />
  <p align="left">
+  
 ## 🤝 Connect with me:
 <br />
-<a href="#" title="Facebook"><img src="https://img.shields.io/badge/Facebook-%23000?style=social&logo=Facebook&logoColor=%230866FF"/></a>
-<a href="#" title="LinkedIn"><img src="https://img.shields.io/badge/linked%20in-%23000?style=social&logo=LinkedIn&logoColor=%230A66C2"/></a> 
-<a  href="mailto:your.email@gmail.com" title="Gmail"><img src="https://img.shields.io/badge/Gmail-%23000?style=social&logo=Gmail&logoColor=%23EA4335"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-%23000?style=social&logo=react&logoColor=%2361DAFB"alt="portfolio"/></a>
+<a href="www.linkedin.com/in/doaa-ashraf-hassan-5620992a5" title="LinkedIn"><img src="https://img.shields.io/badge/linked%20in-%23000?style=social&logo=LinkedIn&logoColor=%230A66C2"/></a> 
+<a  href="mailto:doaaashrafhassan210@gmail.com" title="Gmail"><img src="https://img.shields.io/badge/Gmail-%23000?style=social&logo=Gmail&logoColor=%23EA4335"/></a>
+<a href="https://doaaashrafhassan.vercel.app"><img src="https://img.shields.io/badge/Portfolio-%23000?style=social&logo=react&logoColor=%2361DAFB"alt="portfolio"/></a>
 <br />
  <p align="left">
 - 💬 If you have any questions/feedback, please do not hesitate to reach out to me!
 <br />
  <p align="left">
+  
 ## 💼 Frontend Skills
 <br>
   <a href="https://angular.io/"title="Angular"><img src="https://img.shields.io/badge/Angular-%23000?style=social&logo=angular&logoColor=%23DD0031"alt="angular"/></a>

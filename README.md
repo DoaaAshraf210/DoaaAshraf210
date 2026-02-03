@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Doaa Ashraf Hassan</h1>
-<h2 align="center">Software Engineer | Full Stack Developer (Angular & .NET)</h2>
+<h3 align="center">Software Engineer | Full Stack Developer (Angular & .NET)</h3>
 
 <p>I love the entire process of developing creative applications. I love the challenge of building full-stack solutions and creating seamless user experiences. Learning new technologies and solving complex problems is my passion.
    </p>
@@ -34,8 +34,6 @@
 
   <p align="left">
     <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,tailwind,js,typescript,angular,dotnet,cs,sqlserver,postman,swagger,git,github&perline=6" style="height:113px;"/>
-    <img src="https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C"  height="50"/>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" height="50" />
      
   </p>
   </p>

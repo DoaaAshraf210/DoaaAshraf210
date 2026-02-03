@@ -4,8 +4,8 @@
 <p align="left"> I am a graduate of the Department of Computer Science, Faculty of Computers and Information, Minya University.
   I love the entire process of developing creative applications. I love the challenge of building full-stack solutions and creating seamless user experiences. Learning new technologies and solving complex problems is my passion.
    </p>
-    <p>
-<img src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 200px/>
+    <p align="right">
+<img  src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 200px/>
   </p>
  <p>
     <a href="https://drive.google.com/file/d/1dcQpJAkT9hD2MzbW1AIaGmnIExrmuq7Z/view?usp=drive_link" target="_blanck">

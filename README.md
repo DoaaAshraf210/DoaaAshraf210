@@ -5,7 +5,7 @@
    </p>
    
 
-<p>  🏫University:I am a graduate of the Department of Computer Science, Faculty of Computers and Information, Minya University.
+<p> I am a graduate of the Department of Computer Science, Faculty of Computers and Information, Minya University.
    </p>
    
  <p align="left">
@@ -28,7 +28,7 @@
 ### 🛠️ Top Technical Skills & Tools
 
   <p align="left">
-    <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,tailwind,bootstrap,js,typescript,angular,dotnet,cs,sqlserver,postman,swagger,git,github&perline=7" style="height:113px;"/>
+    <img src="https://go-skill-icons.vercel.app/api/icons?i=html,css,tailwind,bootstrap,js,typescript,angular,dotnet,cs,sqlserver,postman,swagger,git,github&perline=5" style="height:113px;"/>
   </p>
   </p>
 

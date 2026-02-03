@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm Doaa Ashraf Hassan <picture align="center"><img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 35px></picture></h1>
+<h1 align="center">Hi <picture align="center"><img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 22px></picture>, I'm Doaa Ashraf Hassan</h1>
 <h3 align="center">Software Engineer | Full Stack Developer (Angular & .NET)</h3>
 
  <p align="right">
@@ -19,11 +19,11 @@
 ### 📤 Connect with me:
   <p align="left">
     <a href="mailto:doaaashrafhassan210@gmail.com" target="_blank">
-      <img src="https://static.wikia.nocookie.net/google/images/7/72/Logo-gmail.png/revision/latest/thumbnail/width/360/height/360?cb=20201214214241" height="50"/></a> &nbsp;
+      <img src="https://static.wikia.nocookie.net/google/images/7/72/Logo-gmail.png/revision/latest/thumbnail/width/360/height/360?cb=20201214214241" height="40"/></a> &nbsp;
 <a href="https://www.linkedin.com/in/doaa-ashraf-hassan-5620992a5/" target="_blank">
-      <img src="https://www.iconpacks.net/icons/1/free-linkedin-icon-130-thumb.png" height="50"/></a> &nbsp;
+      <img src="https://www.iconpacks.net/icons/1/free-linkedin-icon-130-thumb.png" height="40"/></a> &nbsp;
 <a href="https://wa.me/+201001095509" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg"  height="40" alt="whatsapp logo"  />
   </a>
  
   </p>

@@ -5,19 +5,19 @@
   I love the entire process of developing creative applications. I love the challenge of building full-stack solutions and creating seamless user experiences. Learning new technologies and solving complex problems is my passion.
    </p><p>
     <a href="https://drive.google.com/file/d/1dcQpJAkT9hD2MzbW1AIaGmnIExrmuq7Z/view?usp=drive_link" target="_blank">
-      <img src="https://img.shields.io/badge/CV-005520?style=flat-circle&logo=googledrive&logoColor=white" style="height:35px; object-fit:contain;"/></a> &nbsp;
+      <img src="https://img.shields.io/badge/CV-005520?style=flat-circle&logo=googledrive&logoColor=white" style="height:30px; object-fit:contain;"/></a> &nbsp;
     <a href="https://doaaashrafhassan.vercel.app" target="_blank">
-      <img src="https://img.shields.io/badge/My Portfolio-003580?style=flat-circle&logo=linkfire&logoColor=white" style="height:35px; object-fit:contain;"/></a>
+      <img src="https://img.shields.io/badge/My Portfolio-003580?style=flat-circle&logo=linkfire&logoColor=white" style="height:30px; object-fit:contain;"/></a>
   </p>
  <p align="right">
-<img align="right" src="https://camo.githubusercontent.com/e57e0055b4687ec058cefc0ae09edac4926ad06321dd1ac4eb54898142d158aa/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" width = 250px/>
+<img align="right" src="https://camo.githubusercontent.com/e57e0055b4687ec058cefc0ae09edac4926ad06321dd1ac4eb54898142d158aa/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966" width = 270px/>
   </p>
  <p align="left">
     
 ### 📤 Connect with me:
   <p align="left">
     <a href="mailto:doaaashrafhassan210@gmail.com" target="_blank">
-      <img src="https://static.wikia.nocookie.net/google/images/7/72/Logo-gmail.png/revision/latest/thumbnail/width/360/height/360?cb=20201214214241" height="40"/></a> &nbsp;
+      <img src="https://static.wikia.nocookie.net/google/images/7/72/Logo-gmail.png/revision/latest/thumbnail/width/360/height/360?cb=20201214214241" height="50"/></a> &nbsp;
 <a href="https://www.linkedin.com/in/doaa-ashraf-hassan-5620992a5/" target="_blank">
       <img src="https://www.iconpacks.net/icons/1/free-linkedin-icon-130-thumb.png" height="50"/></a> &nbsp;
 <a href="https://wa.me/+201001095509" target="_blank">

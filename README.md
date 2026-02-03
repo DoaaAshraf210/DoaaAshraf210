@@ -2,12 +2,11 @@
 <h3 align="center">Software Engineer | Full Stack Developer (Angular & .NET)</h3>
 
  <p align="right">
-<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 200px/>
+<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 150px/>
   </p>
 <p> I am a graduate of the Department of Computer Science, Faculty of Computers and Information, Minya University.
   I love the entire process of developing creative applications. I love the challenge of building full-stack solutions and creating seamless user experiences. Learning new technologies and solving complex problems is my passion.
-   </p>
- <p>
+   </p><p>
     <a href="https://drive.google.com/file/d/1dcQpJAkT9hD2MzbW1AIaGmnIExrmuq7Z/view?usp=drive_link" target="_blank">
       <img src="https://img.shields.io/badge/CV-005520?style=flat-circle&logo=googledrive&logoColor=white" style="height:35px; object-fit:contain;"/></a> &nbsp;
     <a href="https://doaaashrafhassan.vercel.app" target="_blank">

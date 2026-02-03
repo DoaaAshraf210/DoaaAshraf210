@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Doaa Ashraf Hassan</h1>
-<h3 align="center">I'm a Full Stack Developer | Angular & .NET 💻</h3>
+<h2 align="center">Software Engineer | Web Developer |Full Stack Developer (Angular & .NET)</h3>
 
 <p>I love the entire process of developing creative applications. I love the challenge of building full-stack solutions and creating seamless user experiences. Learning new technologies and solving complex problems is my passion.
  
@@ -12,7 +12,7 @@
 <br />
  <p align="left">
   
-## 📤 Connect with me:
+### 📤 Connect with me:
 
   <p align="left">
     <a href="mailto:doaaashrafhassan210@gmail.com">

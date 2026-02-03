@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Doaa Ashraf Hassan</h1>
 <h3 align="center">Software Engineer | Full Stack Developer (Angular & .NET)</h3>
 
- <p align="left">
+ <p align="right">
 <img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 200px/>
   </p>
 <p> I am a graduate of the Department of Computer Science, Faculty of Computers and Information, Minya University.

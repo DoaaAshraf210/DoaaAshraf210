@@ -22,7 +22,7 @@
     <a href="mailto:doaaashrafhassan210@gmail.com">
       <img src="https://static.wikia.nocookie.net/google/images/7/72/Logo-gmail.png/revision/latest/thumbnail/width/360/height/360?cb=20201214214241" height="50"/></a> &nbsp;
 <a href="https://www.linkedin.com/in/doaa-ashraf-hassan-5620992a5/">
-      <img src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" height="50"/></a> &nbsp;
+      <img src="https://www.iconpacks.net/icons/1/free-linkedin-icon-130-thumb.png" height="50"/></a> &nbsp;
 <a href="https://wa.me/+201001095509" >
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
   </a> &nbsp;

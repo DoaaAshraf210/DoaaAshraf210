@@ -13,6 +13,12 @@
 <br>
   </p>
 
+ <p>
+    <a href="https://drive.google.com/file/d/1dcQpJAkT9hD2MzbW1AIaGmnIExrmuq7Z/view?usp=drive_link">
+      <img src="https://img.shields.io/badge/My CV-005520?style=flat-square&logo=googledrive&logoColor=white" style="height:35px; object-fit:contain;"/></a> &nbsp;
+    <a href="https://doaaashrafhassan.vercel.app">
+      <img src="https://img.shields.io/badge/My Portfolio-003580?style=flat-square&logo=linkfire&logoColor=white" style="height:35px; object-fit:contain;"/></a>
+  </p>
 <br />
  <p align="left">
   
@@ -26,8 +32,7 @@
 <a href="https://wa.me/+201001095509" >
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
   </a> &nbsp;
-    <a href="https://your-portfolio-link.com">
-      <img src="https://doaaashrafhassan.vercel.app" height="50"/></a> &nbsp;
+ 
   </p>
 
 ### 🛠️ Top Technical Skills & Tools

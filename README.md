@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer | Full Stack Developer (Angular & .NET)</h3>
 
  <p align="right">
-<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 250px/>
+<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 200px/>
   </p>
 <p align="left"> I am a graduate of the Department of Computer Science, Faculty of Computers and Information, Minya University.
   I love the entire process of developing creative applications. I love the challenge of building full-stack solutions and creating seamless user experiences. Learning new technologies and solving complex problems is my passion.

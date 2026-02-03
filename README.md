@@ -1,8 +1,8 @@
-<h1 align="center">Hi, I'm Doaa Ashraf Hassan</h1>
+<h1 align="center">Hi, I'm Doaa Ashraf Hassan <picture align="center"><img align="center" src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 40px></picture></h1>
 <h3 align="center">Software Engineer | Full Stack Developer (Angular & .NET)</h3>
 
  <p align="right">
-<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 200px/>
+<img align="right" src="https://user-images.githubusercontent.com/63050133/156676671-d5b2e362-97d4-4404-9447-dd71ddfea82f.gif" width = 180px/>
   </p>
 <p> I am a graduate of the Department of Computer Science, Faculty of Computers and Information, Minya University.
   I love the entire process of developing creative applications. I love the challenge of building full-stack solutions and creating seamless user experiences. Learning new technologies and solving complex problems is my passion.
